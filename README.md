@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Anshita7610.
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently learning C++,HTML,CSS and Python .
+- 🌱 I’m interested in learning different languages .
 - 💞️ I’m looking to collaborate on different projects.
 
 <!---
